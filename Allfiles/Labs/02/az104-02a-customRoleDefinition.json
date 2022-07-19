@@ -1,3 +1,5 @@
+
+
 {
    "Name": "Support Request Contributor (Custom)",
    "IsCustom": true,
@@ -10,6 +12,6 @@
    ],
    "AssignableScopes": [
        "/providers/Microsoft.Management/managementGroups/az104-02-mg1",
-       "/subscriptions/SUBSCRIPTION_ID"
+       "/subscriptions/62be79d4-2ba2-4160-96c7-5ab502ae24fe"
    ]
 }
